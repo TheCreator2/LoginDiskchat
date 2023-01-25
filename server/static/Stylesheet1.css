@@ -1,0 +1,17 @@
+﻿body
+{
+    background: #ff00ff;
+}
+
+.login {
+    text-align: center;
+    padding: 2em;
+    border: solid 2px black;
+    border-radius: 5px;
+}
+
+/*.login label {
+    width: 200px;
+    display: inline;
+
+}*/
