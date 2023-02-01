@@ -3,6 +3,12 @@
     background: #ff00ff;
 }
 
+button {
+    border: solid 10px pink;
+    border-radius: 20px;
+
+}
+
 .login {
     text-align: center;
     padding: 2em;
