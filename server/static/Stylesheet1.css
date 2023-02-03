@@ -6,8 +6,19 @@
 button {
     border: solid 10px pink;
     border-radius: 20px;
-
+    
 }
+button:hover {
+    border: solid 10px white;
+    border-radius: 20px;
+    transform: rotateY(180deg) rotateX(180deg) skewX(100deg);
+ }
+
+#logo:hover {
+    border: solid 10px black;
+    border-radius: 20px;
+    transform: rotateY(180deg) rotateX(180deg) skewX(100deg);
+ }
 
 .login {
     text-align: center;
